@@ -1,4 +1,4 @@
-# TargetApp02
+# SampleApp02
 
 Polaris の SCA（シグネチャースキャン）を試すサンプルアプリケーションです。
 
